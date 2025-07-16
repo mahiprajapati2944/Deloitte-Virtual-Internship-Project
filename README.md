@@ -67,3 +67,23 @@ The internship project is centered around **Daikibo Industrials**, a company ope
 
 ## 📁 Repository Structure
 
+---
+
+## 🙌 Acknowledgments
+
+Thanks to **Deloitte** and **Forage** for providing this valuable virtual internship opportunity. This project allowed me to explore real-world data challenges and enhance my skills in data analysis, visualization, and ethical tech.
+
+---
+
+## 📬 Contact
+
+**Name:** Mahi Prajapati  
+**Email:** mahi635433@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/mahi-prajapati-2791a8228/
+
+## 📊 Interactive Dashboard
+![Dashboard Screenshot](<img width="1307" height="741" alt="task-1(1)" src="https://github.com/user-attachments/assets/dc9e1fd1-a1ba-486b-bb1a-ab74bf8d4c06" />
+)
+
+
+
