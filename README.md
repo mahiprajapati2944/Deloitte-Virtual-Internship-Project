@@ -82,8 +82,7 @@ Thanks to **Deloitte** and **Forage** for providing this valuable virtual intern
 **LinkedIn:** https://www.linkedin.com/in/mahi-prajapati-2791a8228/
 
 ## 📊 Interactive Dashboard
-![Dashboard Screenshot](<img width="1307" height="741" alt="task-1(1)" src="https://github.com/user-attachments/assets/dc9e1fd1-a1ba-486b-bb1a-ab74bf8d4c06" />
-)
+![<img width="1307" height="741" alt="image" src="https://github.com/user-attachments/assets/7ca255ca-5c4a-4794-938e-300697b20a4d" />])
 
 
 
